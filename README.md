@@ -3,7 +3,7 @@
 [文部科学省による統合データベースプロジェクト ](http://lifesciencedb.mext.go.jp/)によってライフサイエンス分野のデータベースを効率よく利用するためのインフラが整備されつつあります。例えば、[「統合ホームページ」](http://lifesciencedb.jp/)からは過去の[「蛋白質 核酸 酵素」](http://www.kyoritsu-pub.co.jp/pne/)のコンテンツ(1985年-2007年)とそれを含めた多数のデータベースを対象とする[横断検索](http://lifesciencedb.jp/dbsearch/)が利用可能となっています。
 
 今回の講習会は、統合データベースプロジェクトによって作成・維持管理されているサービスを効率的に使いこなすための利用法について広く知ってもらうことを目的としています。
-参加者全員がハンズオンでコンピュータを使いながらの講習になりますのでその点ご留意ください。[![AJACS湘南3](http://motdb.dbcls.jp/?plugin=attach&pcmd=open&file=Ajacs18_poster.png&refer=AJACS18)](http://motdb.dbcls.jp/?plugin=attach&pcmd=open&file=Ajacs18_poster.pdf&refer=AJACS18)
+参加者全員がハンズオンでコンピュータを使いながらの講習になりますのでその点ご留意ください。
 
 <dl class="list1" style="padding-left:16px;margin-left:16px">
     <dt>対象</dt>
