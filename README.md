@@ -54,15 +54,15 @@
 
 ### [_](http://MotDB.DBCLS.jp/?AJACS18#obd3f243 "obd3f243") 内容  
 
-* 10:00-10:20 「はじめに：統合データベースプロジェクトとは？」[PDF](http://MotDB.DBCLS.jp/?plugin=attach&pcmd=open&file=ajacs18.nz.pdf&refer=AJACS18)
-* 10:20-10:40 [「統合TV」](http://MotDB.DBCLS.jp/?AJACS18%2Fhono1 "AJACS18/hono1 (2929d)")
+* 10:00-10:20 「はじめに：統合データベースプロジェクトとは？」[PDF](AJACS18_nakazato.pdf)
+* 10:20-10:40 [「統合TV」](01_hono1.md)
 * 10:40-10:50　休憩
-* 10:50-11:40 [「生命科学横断検索の利用法」](http://MotDB.DBCLS.jp/?AJACS18%2Fsk2 "AJACS18/sk2 (2947d)")
+* 10:50-11:40 [「生命科学横断検索の利用法」](02_kawano.md)
 * 11:40-12:20
-    [「文献情報を効率的に活用する」](http://MotDB.DBCLS.jp/?AJACS18%2Fthecla "AJACS18/thecla (2947d)")
+    [「文献情報を効率的に活用する」](03_nakazato.md)
 * 12:20-13:20　昼休憩
-* 13:20-14:20 [「遺伝子発現データの使い倒し術」](http://MotDB.DBCLS.jp/?AJACS18%2Fhono2 "AJACS18/hono2 (2953d)")
-* 14:20-15:20 「次世代シーケンサの活用法」[PDF](http://MotDB.DBCLS.jp/?plugin=attach&pcmd=open&file=AJACS18_100604.ppt.pdf&refer=AJACS18)
+* 13:20-14:20 [「遺伝子発現データの使い倒し術」](04_hono2.md)
+* 14:20-15:20 「次世代シーケンサの活用法」[PDF](AJACS18_kaminuma.pdf)
 * 15:20-15:40　休憩
-* 15:40-16:20 「[BodyParts3D/Anatomographyの利用法](http://MotDB.DBCLS.jp/?AJACS18%2Fmitsuhashi "AJACS18/mitsuhashi (2935d)")」
+* 15:40-16:20 「[BodyParts3D/Anatomographyの利用法](05_mitsuhashi.md)」
 * 16:20-17:00 「[KazusaMart](http://wiki.kazusa.or.jp/KazusaMart)の使い方」
