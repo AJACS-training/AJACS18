@@ -1,5 +1,3 @@
-[[戻る>AJACS18#obd3f243]]
-
 # 前置き [#g5e98aa4]
 ##  自己紹介 [#n93a022e]
 - [[河野　信>http://www.dragonsnakers.com/ryu-ja/?%B2%CF%CC%EE%A1%A1%BF%AE]]（かわの　しん）といいます
